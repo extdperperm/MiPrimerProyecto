@@ -10,6 +10,7 @@ public class MiProyectoApplication {
 		SpringApplication.run(MiProyectoApplication.class, args);
 		int a = 2; 
 		int b = 3;
+		//Comentario nuevo
 	}
 
 }
