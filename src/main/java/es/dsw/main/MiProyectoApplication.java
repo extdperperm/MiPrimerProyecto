@@ -8,6 +8,7 @@ public class MiProyectoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MiProyectoApplication.class, args);
+		int a = 2;
 	}
 
 }
